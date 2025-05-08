@@ -1,0 +1,44 @@
+.chat-widget-container {
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    text-align: center;
+    width: 300px;
+    margin: 10px auto;
+    background-color: #f9f9f9;
+  }
+  
+  .chat-widget-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .chat-widget-container textarea {
+    width: 80%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .chat-widget-container button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .chat-widget-container button:disabled {
+    background-color: #ddd;
+  }
+  
+  .chat-widget-container .response {
+    margin-top: 15px;
+    color: #333;
+    font-size: 1rem;
+    word-wrap: break-word;
+  }
+  

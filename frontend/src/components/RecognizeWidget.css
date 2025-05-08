@@ -1,0 +1,33 @@
+.widget-container {
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    text-align: center;
+    width: 300px;
+    margin: 10px auto;
+    background-color: #f9f9f9;
+  }
+  
+  .widget-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .widget-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .widget-container button:disabled {
+    background-color: #ddd;
+  }
+  
+  .widget-container .message {
+    margin-top: 15px;
+    color: red;
+  }
+  
