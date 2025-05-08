@@ -123,7 +123,7 @@ Watch the demo and explanation on Loom:
 
 Logging is structured using Python’s `logging` library:
 
-* Logs are stored in `logs/face`\*`registartion.log,logs/face_recognition.log,logs/rag`\*engine`.log`.
+* Logs are stored in `logs/face`\*`registartion.log,logs/face_recognition.log,logs/rag_engine.log`.
 * Each module (`register.py`, `recognize.py`, `rag_engine.py`) includes logging for tracking user events and errors.
 
 ---
