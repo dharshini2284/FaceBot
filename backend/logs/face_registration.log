@@ -1,0 +1,135 @@
+2025-05-08 03:18:54,117 - INFO - Starting face registration for: dharsh
+2025-05-08 03:18:54,117 - INFO - Database connection established.
+2025-05-08 03:18:54,133 - INFO - Tables ensured in database.
+2025-05-08 03:18:55,488 - INFO - New user dharsh registered with ID 1 at 2025-05-08 03:18:55.
+2025-05-08 03:18:55,488 - INFO - Started capturing faces.
+2025-05-08 03:18:55,995 - INFO - Saved image 1 for user ID 1.
+2025-05-08 03:18:56,080 - INFO - Saved image 2 for user ID 1.
+2025-05-08 03:18:56,113 - INFO - Saved image 3 for user ID 1.
+2025-05-08 03:18:56,133 - INFO - Saved image 4 for user ID 1.
+2025-05-08 03:18:56,196 - INFO - Saved image 5 for user ID 1.
+2025-05-08 03:18:56,231 - INFO - Saved image 6 for user ID 1.
+2025-05-08 03:18:56,265 - INFO - Saved image 7 for user ID 1.
+2025-05-08 03:18:56,310 - INFO - Saved image 8 for user ID 1.
+2025-05-08 03:18:56,345 - INFO - Saved image 9 for user ID 1.
+2025-05-08 03:18:56,379 - INFO - Saved image 10 for user ID 1.
+2025-05-08 03:18:56,414 - INFO - Saved image 11 for user ID 1.
+2025-05-08 03:18:56,448 - INFO - Saved image 12 for user ID 1.
+2025-05-08 03:18:56,481 - INFO - Saved image 13 for user ID 1.
+2025-05-08 03:18:56,504 - INFO - Saved image 14 for user ID 1.
+2025-05-08 03:18:56,539 - INFO - Saved image 15 for user ID 1.
+2025-05-08 03:18:56,573 - INFO - Saved image 16 for user ID 1.
+2025-05-08 03:18:56,603 - INFO - Saved image 17 for user ID 1.
+2025-05-08 03:18:56,642 - INFO - Saved image 18 for user ID 1.
+2025-05-08 03:18:56,676 - INFO - Saved image 19 for user ID 1.
+2025-05-08 03:18:56,710 - INFO - Saved image 20 for user ID 1.
+2025-05-08 03:18:56,726 - INFO - Face capture session ended by user or limit reached.
+2025-05-08 03:18:57,107 - INFO - Finished registration. Total images saved: 20.
+2025-05-08 03:31:02,318 - INFO - Starting face registration for: Dharshini
+2025-05-08 03:31:02,318 - INFO - Database connection established.
+2025-05-08 03:31:02,318 - INFO - Tables ensured in database.
+2025-05-08 03:31:03,689 - INFO - New user Dharshini registered with ID 2 at 2025-05-08 03:31:03.
+2025-05-08 03:31:03,689 - INFO - Started capturing faces.
+2025-05-08 03:31:04,202 - INFO - Saved image 1 for user ID 2.
+2025-05-08 03:31:04,268 - INFO - Saved image 2 for user ID 2.
+2025-05-08 03:31:04,290 - INFO - Saved image 3 for user ID 2.
+2025-05-08 03:31:04,325 - INFO - Saved image 4 for user ID 2.
+2025-05-08 03:31:04,361 - INFO - Saved image 5 for user ID 2.
+2025-05-08 03:31:04,395 - INFO - Saved image 6 for user ID 2.
+2025-05-08 03:31:04,455 - INFO - Saved image 7 for user ID 2.
+2025-05-08 03:31:04,501 - INFO - Saved image 8 for user ID 2.
+2025-05-08 03:31:04,534 - INFO - Saved image 9 for user ID 2.
+2025-05-08 03:31:04,565 - INFO - Saved image 10 for user ID 2.
+2025-05-08 03:31:04,603 - INFO - Saved image 11 for user ID 2.
+2025-05-08 03:31:04,634 - INFO - Saved image 12 for user ID 2.
+2025-05-08 03:31:04,670 - INFO - Saved image 13 for user ID 2.
+2025-05-08 03:31:04,703 - INFO - Saved image 14 for user ID 2.
+2025-05-08 03:31:04,730 - INFO - Saved image 15 for user ID 2.
+2025-05-08 03:31:04,764 - INFO - Saved image 16 for user ID 2.
+2025-05-08 03:31:04,797 - INFO - Saved image 17 for user ID 2.
+2025-05-08 03:31:04,830 - INFO - Saved image 18 for user ID 2.
+2025-05-08 03:31:04,869 - INFO - Saved image 19 for user ID 2.
+2025-05-08 03:31:04,904 - INFO - Saved image 20 for user ID 2.
+2025-05-08 03:31:04,919 - INFO - Face capture session ended by user or limit reached.
+2025-05-08 03:31:05,247 - INFO - Finished registration. Total images saved: 20.
+2025-05-08 05:14:56,014 - INFO - Starting face registration for: abdulkalam
+2025-05-08 05:14:56,014 - INFO - Database connection established.
+2025-05-08 05:14:56,014 - INFO - Tables ensured in database.
+2025-05-08 05:14:57,095 - INFO - New user abdulkalam registered with ID 3 at 2025-05-08 05:14:57.
+2025-05-08 05:14:57,095 - INFO - Started capturing faces.
+2025-05-08 05:15:33,374 - INFO - Saved image 1 for user ID 3.
+2025-05-08 05:15:33,437 - INFO - Saved image 2 for user ID 3.
+2025-05-08 05:15:33,484 - INFO - Saved image 3 for user ID 3.
+2025-05-08 05:15:33,533 - INFO - Saved image 4 for user ID 3.
+2025-05-08 05:15:33,578 - INFO - Saved image 5 for user ID 3.
+2025-05-08 05:15:33,635 - INFO - Saved image 6 for user ID 3.
+2025-05-08 05:15:33,672 - INFO - Saved image 7 for user ID 3.
+2025-05-08 05:15:33,720 - INFO - Saved image 8 for user ID 3.
+2025-05-08 05:15:33,767 - INFO - Saved image 9 for user ID 3.
+2025-05-08 05:15:33,814 - INFO - Saved image 10 for user ID 3.
+2025-05-08 05:15:33,868 - INFO - Saved image 11 for user ID 3.
+2025-05-08 05:15:33,909 - INFO - Saved image 12 for user ID 3.
+2025-05-08 05:15:33,973 - INFO - Saved image 13 for user ID 3.
+2025-05-08 05:15:34,042 - INFO - Saved image 14 for user ID 3.
+2025-05-08 05:15:34,092 - INFO - Saved image 15 for user ID 3.
+2025-05-08 05:15:34,143 - INFO - Saved image 16 for user ID 3.
+2025-05-08 05:15:34,184 - INFO - Saved image 17 for user ID 3.
+2025-05-08 05:15:34,247 - INFO - Saved image 18 for user ID 3.
+2025-05-08 05:15:34,295 - INFO - Saved image 19 for user ID 3.
+2025-05-08 05:15:34,342 - INFO - Saved image 20 for user ID 3.
+2025-05-08 05:15:34,342 - INFO - Face capture session ended by user or limit reached.
+2025-05-08 05:15:34,666 - INFO - Finished registration. Total images saved: 20.
+2025-05-08 05:25:39,688 - INFO - Starting face registration for: dharshini
+2025-05-08 05:25:39,688 - INFO - Database connection established.
+2025-05-08 05:25:39,720 - INFO - Tables ensured in database.
+2025-05-08 05:25:41,184 - INFO - New user dharshini registered with ID 1 at 2025-05-08 05:25:41.
+2025-05-08 05:25:41,184 - INFO - Started capturing faces.
+2025-05-08 05:25:41,610 - INFO - Saved image 1 for user ID 1.
+2025-05-08 05:25:41,683 - INFO - Saved image 2 for user ID 1.
+2025-05-08 05:25:41,717 - INFO - Saved image 3 for user ID 1.
+2025-05-08 05:25:41,748 - INFO - Saved image 4 for user ID 1.
+2025-05-08 05:25:41,779 - INFO - Saved image 5 for user ID 1.
+2025-05-08 05:25:41,809 - INFO - Saved image 6 for user ID 1.
+2025-05-08 05:25:41,901 - INFO - Saved image 7 for user ID 1.
+2025-05-08 05:25:41,936 - INFO - Saved image 8 for user ID 1.
+2025-05-08 05:25:41,962 - INFO - Saved image 9 for user ID 1.
+2025-05-08 05:25:42,000 - INFO - Saved image 10 for user ID 1.
+2025-05-08 05:25:42,005 - INFO - Face capture session ended by user or limit reached.
+2025-05-08 05:25:42,338 - INFO - Finished registration. Total images saved: 10.
+2025-05-08 05:37:16,524 - INFO - Starting face registration for: sharmila
+2025-05-08 05:37:16,524 - INFO - Database connection established.
+2025-05-08 05:37:16,537 - INFO - Tables ensured in database.
+2025-05-08 05:37:17,898 - INFO - New user sharmila registered with ID 1 at 2025-05-08 05:37:17.
+2025-05-08 05:37:17,900 - INFO - Started capturing faces.
+2025-05-08 05:37:18,334 - INFO - Saved image 1 for user ID 1.
+2025-05-08 05:37:18,421 - INFO - Saved image 2 for user ID 1.
+2025-05-08 05:37:18,455 - INFO - Saved image 3 for user ID 1.
+2025-05-08 05:37:18,487 - INFO - Saved image 4 for user ID 1.
+2025-05-08 05:37:18,525 - INFO - Saved image 5 for user ID 1.
+2025-05-08 05:37:18,553 - INFO - Saved image 6 for user ID 1.
+2025-05-08 05:37:18,591 - INFO - Saved image 7 for user ID 1.
+2025-05-08 05:37:18,632 - INFO - Saved image 8 for user ID 1.
+2025-05-08 05:37:18,664 - INFO - Saved image 9 for user ID 1.
+2025-05-08 05:37:18,693 - INFO - Saved image 10 for user ID 1.
+2025-05-08 05:37:18,724 - INFO - Saved image 11 for user ID 1.
+2025-05-08 05:37:18,756 - INFO - Saved image 12 for user ID 1.
+2025-05-08 05:37:18,790 - INFO - Saved image 13 for user ID 1.
+2025-05-08 05:37:18,824 - INFO - Saved image 14 for user ID 1.
+2025-05-08 05:37:18,851 - INFO - Saved image 15 for user ID 1.
+2025-05-08 05:37:18,882 - INFO - Saved image 16 for user ID 1.
+2025-05-08 05:37:18,912 - INFO - Saved image 17 for user ID 1.
+2025-05-08 05:37:18,947 - INFO - Saved image 18 for user ID 1.
+2025-05-08 05:37:18,975 - INFO - Saved image 19 for user ID 1.
+2025-05-08 05:37:19,008 - INFO - Saved image 20 for user ID 1.
+2025-05-08 05:37:19,038 - INFO - Saved image 21 for user ID 1.
+2025-05-08 05:37:19,070 - INFO - Saved image 22 for user ID 1.
+2025-05-08 05:37:19,104 - INFO - Saved image 23 for user ID 1.
+2025-05-08 05:37:19,135 - INFO - Saved image 24 for user ID 1.
+2025-05-08 05:37:19,169 - INFO - Saved image 25 for user ID 1.
+2025-05-08 05:37:19,202 - INFO - Saved image 26 for user ID 1.
+2025-05-08 05:37:19,229 - INFO - Saved image 27 for user ID 1.
+2025-05-08 05:37:19,261 - INFO - Saved image 28 for user ID 1.
+2025-05-08 05:37:19,295 - INFO - Saved image 29 for user ID 1.
+2025-05-08 05:37:19,327 - INFO - Saved image 30 for user ID 1.
+2025-05-08 05:37:19,333 - INFO - Face capture session ended by user or limit reached.
+2025-05-08 05:37:19,662 - INFO - Finished registration. Total images saved: 30.

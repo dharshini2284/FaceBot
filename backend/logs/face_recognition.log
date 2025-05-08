@@ -1,0 +1,32 @@
+2025-05-08 03:19:25,176 - INFO - Database already exists.
+2025-05-08 03:19:25,176 - INFO - Connecting to the database to fetch user data.
+2025-05-08 03:19:25,176 - INFO - Loaded 20 face records from the database.
+2025-05-08 03:19:25,187 - INFO - Training the face recognizer with loaded face data.
+2025-05-08 03:19:25,235 - INFO - Starting webcam for face recognition.
+2025-05-08 03:19:26,530 - INFO - Webcam successfully opened, starting face recognition.
+2025-05-08 03:19:31,720 - INFO - User pressed 'q' to quit face recognition.
+2025-05-08 03:19:32,094 - INFO - Face recognition session ended.
+2025-05-08 03:31:09,094 - INFO - Database already exists.
+2025-05-08 03:31:09,094 - INFO - Connecting to the database to fetch user data.
+2025-05-08 03:31:09,118 - INFO - Loaded 40 face records from the database.
+2025-05-08 03:31:09,126 - INFO - Training the face recognizer with loaded face data.
+2025-05-08 03:31:09,253 - INFO - Starting webcam for face recognition.
+2025-05-08 03:31:10,531 - INFO - Webcam successfully opened, starting face recognition.
+2025-05-08 03:31:15,304 - INFO - User pressed 'q' to quit face recognition.
+2025-05-08 03:31:15,649 - INFO - Face recognition session ended.
+2025-05-08 05:25:45,057 - INFO - Database already exists.
+2025-05-08 05:25:45,057 - INFO - Connecting to the database to fetch user data.
+2025-05-08 05:25:45,058 - INFO - Loaded 10 face records from the database.
+2025-05-08 05:25:45,061 - INFO - Training the face recognizer with loaded face data.
+2025-05-08 05:25:45,096 - INFO - Starting webcam for face recognition.
+2025-05-08 05:25:46,393 - INFO - Webcam successfully opened, starting face recognition.
+2025-05-08 05:25:56,358 - INFO - User pressed 'q' to quit face recognition.
+2025-05-08 05:25:56,713 - INFO - Face recognition session ended.
+2025-05-08 05:37:24,366 - INFO - Database already exists.
+2025-05-08 05:37:24,366 - INFO - Connecting to the database to fetch user data.
+2025-05-08 05:37:24,367 - INFO - Loaded 30 face records from the database.
+2025-05-08 05:37:24,373 - INFO - Training the face recognizer with loaded face data.
+2025-05-08 05:37:24,466 - INFO - Starting webcam for face recognition.
+2025-05-08 05:37:25,912 - INFO - Webcam successfully opened, starting face recognition.
+2025-05-08 05:37:35,640 - INFO - User pressed 'q' to quit face recognition.
+2025-05-08 05:37:35,994 - INFO - Face recognition session ended.

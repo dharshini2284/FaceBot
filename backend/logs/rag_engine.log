@@ -1,0 +1,23 @@
+[2025-05-08 05:01:10,324] [INFO] Starting Flask server on port 8765.
+[2025-05-08 05:01:10,329] [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8765
+ * Running on http://192.168.241.3:8765
+[2025-05-08 05:01:10,329] [INFO] [33mPress CTRL+C to quit[0m
+[2025-05-08 05:01:41,305] [INFO] 127.0.0.1 - - [08/May/2025 05:01:41] "OPTIONS /api/ask HTTP/1.1" 200 -
+[2025-05-08 05:01:41,559] [INFO] Received POST request at /api/ask.
+[2025-05-08 05:01:41,559] [INFO] Query received: at what time dharsh registered
+[2025-05-08 05:01:41,559] [INFO] Extracting user data from database.
+[2025-05-08 05:01:41,559] [INFO] Extracted 2 user documents.
+[2025-05-08 05:01:41,559] [INFO] Loading FAISS index.
+[2025-05-08 05:01:41,703] [INFO] PyTorch version 2.7.0 available.
+[2025-05-08 05:01:42,167] [INFO] Use pytorch device_name: cpu
+[2025-05-08 05:01:42,167] [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2025-05-08 05:01:46,444] [INFO] FAISS index found. Loading existing index.
+[2025-05-08 05:01:46,460] [INFO] Loading faiss with AVX2 support.
+[2025-05-08 05:01:46,492] [INFO] Successfully loaded faiss with AVX2 support.
+[2025-05-08 05:01:46,507] [INFO] Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+[2025-05-08 05:01:46,507] [INFO] Performing similarity search for query: at what time dharsh registered
+[2025-05-08 05:01:47,771] [INFO] Generating answer using Flan-T5.
+[2025-05-08 05:01:49,061] [INFO] Answer generated successfully.
+[2025-05-08 05:01:49,330] [INFO] 127.0.0.1 - - [08/May/2025 05:01:49] "POST /api/ask HTTP/1.1" 200 -
